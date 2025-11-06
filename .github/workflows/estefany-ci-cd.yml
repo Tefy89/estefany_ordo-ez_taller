@@ -1,4 +1,4 @@
-name: estefanyy-ci-cd
+name: estefany-ci-cd
 
 on:
   push:
